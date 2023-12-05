@@ -1,5 +1,5 @@
 #language: pt
-Funcionalidade: Calcular Frete
+Funcionalidade: Redireciona login
 Contexto:
 Dado que eu acesse a homepage do Correios
 

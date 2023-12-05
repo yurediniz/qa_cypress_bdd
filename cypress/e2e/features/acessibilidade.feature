@@ -1,5 +1,5 @@
 #language: pt
-Funcionalidade: Calcular Frete
+Funcionalidade: Acessibilidade
 Contexto:
 Dado que eu acesse o site do Correios
 
